@@ -81,6 +81,15 @@ h3 {
   background: #4aaaa5;
 }
 
+.border-top{
+  border-top: 8px solid #4aaaa5;
+
+}
+
+.image-body{
+  width:100%;
+}
+
 
 /* footer */
 
@@ -92,7 +101,7 @@ footer {
   color: #ffffff;
   color: #cccccc;
   text-align: center;
-  background: #666666;
+  background: black;
   border-top: 8px solid #4aaaa5;
   height: 50px;
 }
@@ -128,6 +137,7 @@ h3, h2 {
 }
 
 .main-section {
+  width:100%;
   float:left;
   padding: 30px;
   margin: auto;
